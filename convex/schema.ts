@@ -10,3 +10,5 @@ export default defineSchema({
         clerkId: v.string(),
     }).index("by_clerk_id", ["clerkId"]),
 })
+
+//https://square-shepherd-41.clerk.accounts.dev
